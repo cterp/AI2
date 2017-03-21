@@ -118,7 +118,7 @@ def find_highest_tfs_and_print(scores):
 
 
 def main():
-    term_frequency(['queequeg', 'whale', 'sea'])
+    term_frequency(["queequeg", "whale", "sea"])
 
 
 if __name__ == "__main__":
