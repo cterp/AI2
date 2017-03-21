@@ -6,6 +6,9 @@
 + In the main() function of ```term_freq_script.py```, call the function ```term_frequency``` with a list of words for which to compute term frequency scores.
 	+ For example, ```term_frequency(["ishmael"])```.
 	+ Note that if only a word is given instead of a list (e.g. ```term_frequency("ishmael")```), this program will compute maximum term frequency scores for each letter.
++ Once the main() function has been modified, run the script:
+	+ in your favorite IDE, or
+	+ on the command line: ```$ python term_freq_script.py```.
 
 ### Assumptions
 + This script was written in Python, and I'm more than happy to rewrite it in a different language and/or programming paradigm.
