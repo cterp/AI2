@@ -15,6 +15,7 @@
 
 ### Output
 Output for the words “queequeg”, “whale”, and “sea”:
+
 +----------+-----------------------+----------------------+<br>
 |   word   |        document       | term frequency score |<br>
 +----------+-----------------------+----------------------+<br>
