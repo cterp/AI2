@@ -11,8 +11,8 @@
 	+ on the command line: ```$ python term_freq_script.py```.
 
 ### Assumptions
-+ This script was written in Python, and I'm more than happy to rewrite it in a different language and/or programming paradigm.
-+ Term frequency scores are represented by Decimal numbers, because they can be represented exactly. Precision was arbitrarily set to 8 digits.
++ This script was written in Python, and if it's useful I'm more than happy to rewrite it in a different language and/or programming paradigm.
++ Term frequency scores are represented by Decimal numbers because they can be represented exactly. Precision was arbitrarily chosen to be 8 digits.
 + There are text files in the same directory as the script.
 + Instead of showing the fully qualified path and name for each file in the results table, for clarity only the filename is shown.
 + Stop words were not removed (e.g. "the", "is", "at").
