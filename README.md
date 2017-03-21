@@ -16,10 +16,8 @@
 ### Output
 Output for the words “queequeg”, “whale”, and “sea”:
 
-+----------+-----------------------+----------------------+<br>
-|   word   |        document       | term frequency score |<br>
-+----------+-----------------------+----------------------+<br>
-| queequeg | mobydick-chapter4.txt |     0.0077751196     |<br>
-|  whale   | mobydick-chapter1.txt |     0.0013380910     |<br>
-|   sea    | mobydick-chapter1.txt |     0.0057983943     |<br>
-+----------+-----------------------+----------------------+<br>
+|   word   |        document       | term frequency score |
+|----------|-----------------------|----------------------|
+| queequeg | mobydick-chapter4.txt |     0.0077751196     |
+|  whale   | mobydick-chapter1.txt |     0.0013380910     |
+|   sea    | mobydick-chapter1.txt |     0.0057983943     |
