@@ -118,6 +118,10 @@ def find_highest_tfs_and_print(scores):
 
 
 def main():
+    """
+    Prints to the console the maximum term frequency scores for
+    each word in the list
+    """
     term_frequency(["queequeg", "whale", "sea"])
 
 
